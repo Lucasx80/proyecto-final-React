@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Nike Max Janowsky",
+    "price": 55000,
+    "category": "Nike",
+    "image": "../src/img/janoski.webp",
+    "stock": 15,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 2,
+    "title": "Air Jordan 1 Mid SE",
+    "price": 60000,
+    "category": "Nike",
+    "image": "../src/img/Air Jordan 1 Mid.webp",
+    "stock": 20,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 3,
+    "title": "Adidas Superstars",
+    "price": 45000,
+    "category": "Adidas",
+    "image": "../src/img/Adidas Supertars.webp",
+    "stock": 13,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 4,
+    "title": "Vans Ultrarange",
+    "price": 40000,
+    "category": "Vans",
+    "image": "../src/img/Vans Ultrarange Exo.webp",
+    "stock": 8,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 5,
+    "title": "Puma Palermo",
+    "price": 57000,
+    "category": "Puma",
+    "image": "../src/img/puma.webp",
+    "stock": 26,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 6,
+    "title": "Topper Terre",
+    "price": 50000,
+    "category": "Topper",
+    "image": "../src/img/topper.webp",
+    "stock": 21,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 7,
+    "title": "New Balance 373",
+    "price": 43000,
+    "category": "New Balance",
+    "image": "../src/img/nbnegro.webp",
+    "stock": 18,
+    "description": "Lorem mosamdoasdo"
+  },
+  {
+    "id": 8,
+    "title": "New Balance 574",
+    "price": 68500,
+    "category": "New Balance",
+    "image": "../src/img/nbvioleta.webp",
+    "stock": 15,
+    "description": "Lorem mosamdoasdo"
+  }
+]
