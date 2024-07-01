@@ -1,0 +1,33 @@
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.container{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ max-width: 1200px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.container h1{
+  background-color: #009688;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.carga{
+  position: relative;
+  
+}
